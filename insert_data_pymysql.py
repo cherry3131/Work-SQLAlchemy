@@ -3,7 +3,7 @@ import os
 import pymysql
 import pandas as pd
 
-# 資料庫連線設定
+# Database setting
 db_config = {
     "host": "your_host",
     "port": port_number,
